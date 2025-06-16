@@ -1,0 +1,1 @@
+🍏️👓️2️⃣️6️⃣️💾️ The official source repository/separate repository for the archival and development of VisorOS 26.x, an open source remake of Apple's VisionOS (versions 26.x) Written in C, Assembly, Swift, and Objective-C. Part of the WacOS operating system project.
